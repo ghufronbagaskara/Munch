@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317608416369",
+    "project_id": "munch-fb471",
+    "storage_bucket": "munch-fb471.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317608416369:android:5a62a33d6a8984fba077d0",
+        "android_client_info": {
+          "package_name": "com.example.munch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxggzaB12xVNU0-hG1HiNX__kB4g0cxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
